@@ -7,7 +7,8 @@ Special interest in projects related to healthcare, transportation and logistics
 #### Currently studying: React & Redux
 #### Currently Listening to: Dua Lipa | Artic Monkeys | Rubblebucket
 
-[Portfolio Site](https://derekmurphy1993.github.io/)
+[Portfolio](https://derekmurphy1993.github.io/)
+
 [LinkedIn](https://www.linkedin.com/in/derekmurphy93/)
 
 <!--
