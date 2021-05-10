@@ -5,7 +5,6 @@ I’m Derek, a software developer who loves taking on conceptual ideas and turni
 Special interest in projects related to healthcare, transportation and logistics. 
 
 #### Currently studying: React & Redux
-#### Currently Listening to: Dua Lipa | Artic Monkeys | Rubblebucket
 
 [Portfolio](https://derekmurphy1993.github.io/)
 
