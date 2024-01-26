@@ -4,9 +4,9 @@ I’m Derek, a software developer who loves taking on conceptual ideas and turni
 
 I am most inspired by the way seemingly small technologies can have a huge impact on the people and communities they serve. More than anything, I thrive in collabrative driven roles where I can build intuitive tools to help others efficiently work. 
 
-Special interest in projects related to enterprise software, especially in the fields of food/agriculture, transportation and logistics. 
+Special interest in projects related to enterprise software, especially in the fields of transportation and logistics. 
 
-#### Currently studying: NodeJs
+#### Currently studying: MERN stack
 
 [Portfolio](https://derekmurphy1993.github.io/)
 
