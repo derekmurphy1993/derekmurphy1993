@@ -6,7 +6,7 @@ I am most inspired by the way seemingly small technologies can have a huge impac
 
 Special interest in projects related to enterprise software, especially in the fields of transportation and logistics. 
 
-#### Currently studying: MERN stack
+#### Currently studying: MERN stack / NODEJS
 
 [Portfolio](https://derekmurphy1993.github.io/)
 
