@@ -1,10 +1,10 @@
 ### Welcome
 
-I’m Derek, a software developer who loves taking on conceptual ideas and turning them into solvable problems. I enjoy working with a team dedicated towards a common goal, where creativity and growth is encouraged along the way. I’ve primarily worked on react based web aplications. I also have a background in graphic design, giving me a careful eye for detail and the ability to communicate across teams, especially UI/UX. While front-end development is my strong suit, I am venturing more into developing a full stack mindset.
+I am a front end developer passionate about bridging compelling design with real world solutions. Whether it be visualizing data or creating an intuitive tool that makes everyday tasks a little bit easier, I aim to make technology work for people.
 
-I am most inspired by the way seemingly small technologies can have a huge impact on the people and communities they serve. More than anything, I thrive in collabrative driven roles where I can build intuitive tools to help others efficiently work. 
+In the past I’ve worked a variety of roles, from designer at an aquatic leisure company to a managing a craft brewery. These experiences inspired me to find ways technology can help improve daily life and helped me develop a diverse skill set in design, communication, and problem-solving.
 
-Special interest in projects related to enterprise software, especially in the fields of transportation and logistics. 
+Outside of work, you can find me at the local hack night, or cycling around the city, exploring and photographing new neighborhoods.
 
 #### Currently studying: MERN stack / NODEJS
 
